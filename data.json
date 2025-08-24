@@ -1,0 +1,18 @@
+[
+  {
+    "firstname": "Fred",
+    "link": "https://www.w3schools.com"
+  },
+  {
+    "firstname": "Alice",
+    "link": "https://developer.mozilla.org"
+  },
+  {
+    "firstname": "John",
+    "link": "https://developers.google.com"
+  },
+  {
+    "firstname": "Mary",
+    "link": "https://learn.microsoft.com"
+  }
+]
